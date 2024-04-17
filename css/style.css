@@ -159,6 +159,7 @@ nav ul li a{
     flex-direction: row; /* Arrange columns horizontally */
   }
 }
+
 .column {
   flex: 1;
   height: 200px;
